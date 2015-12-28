@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/layeh/gumble/gumble"
+	"github.com/unascribed/gumble/gumble"
 )
 
 const (

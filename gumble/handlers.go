@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/layeh/gumble/gumble/MumbleProto"
-	"github.com/layeh/gumble/gumble/varint"
+	"github.com/unascribed/gumble/gumble/MumbleProto"
+	"github.com/unascribed/gumble/gumble/varint"
 )
 
 type handlerFunc func(*Client, []byte) error

@@ -1,7 +1,7 @@
 package gumble
 
 import (
-	"github.com/layeh/gumble/gumble/MumbleProto"
+	"github.com/unascribed/gumble/gumble/MumbleProto"
 )
 
 // RegisteredUser represents a registered user on the server.
